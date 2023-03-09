@@ -5,7 +5,7 @@ import Link from 'next/link';
 export default function firstPost() {
   return (
     <>
-      <Layout>
+      <Layout home>
         <Head>
           <title>First Post</title>
         </Head>
